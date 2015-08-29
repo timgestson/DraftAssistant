@@ -1,0 +1,6 @@
+{
+  "name": "Draft Assistant",
+  "description": "Fantasy Football Draft Tool",
+  "repository": "https://github.com/timgestson/DraftAssistant",
+  "keywords":["elm","fantasyfootball","es6"]
+}
