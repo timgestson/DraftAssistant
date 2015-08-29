@@ -1,0 +1,17 @@
+{
+  "name": "phoneDraft",
+  "version": "0.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "hammerjs": "~2.0.4"
+  }
+}
